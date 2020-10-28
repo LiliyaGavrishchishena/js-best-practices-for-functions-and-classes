@@ -1,0 +1,1 @@
+Linkedin Learning Course [JavaScript: Best Practices for Functions and Classes](https://www.linkedin.com/learning/javascript-best-practices-for-functions-and-classes/creating-well-structured-modular-javascript)

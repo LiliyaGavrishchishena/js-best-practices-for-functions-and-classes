@@ -1,0 +1,15 @@
+body {
+  transition: background-color 5s
+}
+
+.bright {
+  background-color: yellowgreen
+}
+
+.neutral {
+  background-color: burlywood
+}
+
+.chill {
+  background-color: slateblue
+}
